@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
             Accountdata = new DataGridView();
             btnAdd = new Button();
             label2 = new Label();
@@ -70,14 +70,14 @@
             Accountdata.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             Accountdata.Location = new Point(17, 380);
             Accountdata.Name = "Accountdata";
-            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = SystemColors.Control;
-            dataGridViewCellStyle2.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            dataGridViewCellStyle2.ForeColor = SystemColors.WindowText;
-            dataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.True;
-            Accountdata.RowHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = SystemColors.Control;
+            dataGridViewCellStyle1.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle1.ForeColor = SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = DataGridViewTriState.True;
+            Accountdata.RowHeadersDefaultCellStyle = dataGridViewCellStyle1;
             Accountdata.RowHeadersWidth = 51;
             Accountdata.Size = new Size(1101, 221);
             Accountdata.TabIndex = 0;
@@ -85,7 +85,7 @@
             // 
             // btnAdd
             // 
-            btnAdd.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAdd.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnAdd.Location = new Point(477, 261);
             btnAdd.Name = "btnAdd";
             btnAdd.Size = new Size(189, 29);
@@ -98,85 +98,85 @@
             // 
             label2.AutoSize = true;
             label2.BackColor = Color.Black;
-            label2.Font = new Font("FOT-Yuruka Std UB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.Transparent;
             label2.Location = new Point(477, 306);
             label2.Name = "label2";
-            label2.Size = new Size(192, 32);
+            label2.Size = new Size(152, 25);
             label2.TabIndex = 2;
             label2.Text = "Account board";
             // 
             // txtHoTen
             // 
-            txtHoTen.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtHoTen.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             txtHoTen.Location = new Point(133, 54);
             txtHoTen.Name = "txtHoTen";
-            txtHoTen.Size = new Size(181, 37);
+            txtHoTen.Size = new Size(181, 24);
             txtHoTen.TabIndex = 4;
             txtHoTen.TextChanged += txtHoTen_TextChanged;
             // 
             // txtUsername
             // 
-            txtUsername.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtUsername.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             txtUsername.Location = new Point(476, 56);
             txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(190, 37);
+            txtUsername.Size = new Size(190, 24);
             txtUsername.TabIndex = 4;
             txtUsername.TextChanged += txtUsername_TextChanged;
             // 
             // txtMatKhau
             // 
-            txtMatKhau.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtMatKhau.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             txtMatKhau.Location = new Point(803, 56);
             txtMatKhau.Name = "txtMatKhau";
-            txtMatKhau.Size = new Size(324, 37);
+            txtMatKhau.Size = new Size(324, 24);
             txtMatKhau.TabIndex = 4;
             txtMatKhau.TextChanged += txtMatKhau_TextChanged;
             // 
             // txtDiaChi
             // 
-            txtDiaChi.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtDiaChi.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             txtDiaChi.Location = new Point(803, 156);
             txtDiaChi.Name = "txtDiaChi";
-            txtDiaChi.Size = new Size(324, 37);
+            txtDiaChi.Size = new Size(324, 24);
             txtDiaChi.TabIndex = 4;
             // 
             // txtID
             // 
-            txtID.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtID.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             txtID.Location = new Point(133, 201);
             txtID.Name = "txtID";
-            txtID.Size = new Size(181, 37);
+            txtID.Size = new Size(181, 24);
             txtID.TabIndex = 4;
             txtID.TextChanged += txtID_TextChanged;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("FOT-Yuruka Std UB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.Location = new Point(-2, 59);
             label3.Name = "label3";
-            label3.Size = new Size(90, 32);
+            label3.Size = new Size(79, 25);
             label3.TabIndex = 2;
             label3.Text = "Names";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("FOT-Yuruka Std UB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label4.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label4.Location = new Point(334, 54);
             label4.Name = "label4";
-            label4.Size = new Size(132, 32);
+            label4.Size = new Size(113, 25);
             label4.TabIndex = 2;
             label4.Text = "UserName";
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Font = new Font("FOT-Yuruka Std UB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label5.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label5.Location = new Point(672, 59);
             label5.Name = "label5";
-            label5.Size = new Size(121, 32);
+            label5.Size = new Size(106, 25);
             label5.TabIndex = 2;
             label5.Text = "Password";
             label5.Click += label5_Click;
@@ -184,106 +184,106 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Font = new Font("FOT-Yuruka Std UB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label7.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label7.Location = new Point(672, 161);
             label7.Name = "label7";
-            label7.Size = new Size(106, 32);
+            label7.Size = new Size(92, 25);
             label7.TabIndex = 2;
             label7.Text = "Address";
             // 
             // label8
             // 
             label8.AutoSize = true;
-            label8.Font = new Font("FOT-Yuruka Std UB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label8.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label8.Location = new Point(-2, 206);
             label8.Name = "label8";
-            label8.Size = new Size(41, 32);
+            label8.Size = new Size(33, 25);
             label8.TabIndex = 2;
             label8.Text = "ID";
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("FOT-Yuruka Std UB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(334, 156);
             label1.Name = "label1";
-            label1.Size = new Size(136, 32);
+            label1.Size = new Size(115, 25);
             label1.TabIndex = 2;
             label1.Text = "Last Name";
             // 
             // txtTen
             // 
-            txtTen.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtTen.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             txtTen.Location = new Point(476, 156);
             txtTen.Name = "txtTen";
-            txtTen.Size = new Size(190, 37);
+            txtTen.Size = new Size(190, 24);
             txtTen.TabIndex = 4;
             txtTen.TextChanged += txtTen_TextChanged;
             // 
             // label9
             // 
             label9.AutoSize = true;
-            label9.Font = new Font("FOT-Yuruka Std UB", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label9.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label9.Location = new Point(-2, 156);
             label9.Name = "label9";
-            label9.Size = new Size(139, 32);
+            label9.Size = new Size(116, 25);
             label9.TabIndex = 2;
             label9.Text = "First Name";
             // 
             // SearchBar
             // 
             SearchBar.BackColor = Color.Gray;
-            SearchBar.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            SearchBar.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             SearchBar.ForeColor = Color.Transparent;
             SearchBar.Location = new Point(194, 341);
             SearchBar.Name = "SearchBar";
-            SearchBar.Size = new Size(327, 37);
+            SearchBar.Size = new Size(327, 24);
             SearchBar.TabIndex = 4;
             SearchBar.TextChanged += SearchBar_TextChanged;
             // 
             // dateBirthday
             // 
-            dateBirthday.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dateBirthday.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             dateBirthday.Location = new Point(803, 206);
             dateBirthday.Name = "dateBirthday";
-            dateBirthday.Size = new Size(324, 37);
+            dateBirthday.Size = new Size(324, 24);
             dateBirthday.TabIndex = 6;
             dateBirthday.ValueChanged += dateBirthday_ValueChanged;
             // 
             // label6
             // 
             label6.AutoSize = true;
-            label6.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label6.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label6.Location = new Point(681, 210);
             label6.Name = "label6";
-            label6.Size = new Size(106, 28);
+            label6.Size = new Size(84, 22);
             label6.TabIndex = 5;
             label6.Text = "Birthday";
             // 
             // listPosition
             // 
-            listPosition.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            listPosition.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             listPosition.FormattingEnabled = true;
-            listPosition.ItemHeight = 24;
+            listPosition.ItemHeight = 18;
             listPosition.Location = new Point(476, 203);
             listPosition.Name = "listPosition";
-            listPosition.Size = new Size(190, 52);
+            listPosition.Size = new Size(190, 40);
             listPosition.TabIndex = 8;
             listPosition.SelectedIndexChanged += listPosition_SelectedIndexChanged;
             // 
             // label10
             // 
             label10.AutoSize = true;
-            label10.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label10.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label10.Location = new Point(334, 210);
             label10.Name = "label10";
-            label10.Size = new Size(98, 28);
+            label10.Size = new Size(82, 22);
             label10.TabIndex = 7;
             label10.Text = "Position";
             // 
             // btnDelete
             // 
-            btnDelete.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnDelete.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnDelete.Location = new Point(871, 349);
             btnDelete.Name = "btnDelete";
             btnDelete.Size = new Size(112, 29);
@@ -294,7 +294,7 @@
             // 
             // btnExit
             // 
-            btnExit.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnExit.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnExit.Location = new Point(1024, 349);
             btnExit.Name = "btnExit";
             btnExit.Size = new Size(94, 29);
@@ -307,27 +307,27 @@
             // 
             label11.AutoSize = true;
             label11.BackColor = Color.Black;
-            label11.Font = new Font("FOT-Yuruka Std UB", 12F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 128);
+            label11.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 128);
             label11.ForeColor = Color.Transparent;
             label11.Location = new Point(415, 9);
             label11.Name = "label11";
-            label11.Size = new Size(335, 32);
+            label11.Size = new Size(297, 25);
             label11.TabIndex = 2;
             label11.Text = "USER ACCOUNT MANAGER";
             // 
             // label12
             // 
             label12.AutoSize = true;
-            label12.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label12.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label12.Location = new Point(22, 346);
             label12.Name = "label12";
-            label12.Size = new Size(174, 28);
+            label12.Size = new Size(148, 22);
             label12.TabIndex = 7;
             label12.Text = "Data Searching";
             // 
             // btnSearch
             // 
-            btnSearch.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnSearch.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnSearch.Location = new Point(527, 345);
             btnSearch.Name = "btnSearch";
             btnSearch.Size = new Size(123, 33);
@@ -338,17 +338,17 @@
             // 
             // txtTenHo
             // 
-            txtTenHo.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtTenHo.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             txtTenHo.Location = new Point(133, 156);
             txtTenHo.Name = "txtTenHo";
-            txtTenHo.Size = new Size(181, 37);
+            txtTenHo.Size = new Size(181, 24);
             txtTenHo.TabIndex = 4;
             txtTenHo.TextChanged += txtTenHo_TextChanged;
             // 
             // btnAddAccount
             // 
             btnAddAccount.BackColor = Color.Transparent;
-            btnAddAccount.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAddAccount.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnAddAccount.Location = new Point(476, 111);
             btnAddAccount.Name = "btnAddAccount";
             btnAddAccount.Size = new Size(190, 29);
@@ -359,7 +359,7 @@
             // 
             // btnEdit
             // 
-            btnEdit.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnEdit.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnEdit.Location = new Point(722, 349);
             btnEdit.Name = "btnEdit";
             btnEdit.Size = new Size(112, 29);
@@ -371,7 +371,7 @@
             // btnCloseAll
             // 
             btnCloseAll.BackColor = Color.Transparent;
-            btnCloseAll.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnCloseAll.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnCloseAll.ForeColor = Color.Black;
             btnCloseAll.Location = new Point(1095, -1);
             btnCloseAll.Name = "btnCloseAll";
@@ -383,7 +383,7 @@
             // 
             // btnTotal
             // 
-            btnTotal.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnTotal.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnTotal.Location = new Point(527, 628);
             btnTotal.Name = "btnTotal";
             btnTotal.Size = new Size(112, 29);
@@ -396,10 +396,10 @@
             // 
             label13.AutoSize = true;
             label13.BackColor = Color.Transparent;
-            label13.Font = new Font("FOT-Yuruka Std UB", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 128);
+            label13.Font = new Font("Microsoft Sans Serif", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 128);
             label13.Location = new Point(381, 615);
             label13.Name = "label13";
-            label13.Size = new Size(154, 44);
+            label13.Size = new Size(167, 32);
             label13.TabIndex = 20;
             label13.Text = ">>>>>>>>>";
             // 
@@ -407,10 +407,10 @@
             // 
             label14.AutoSize = true;
             label14.BackColor = Color.Transparent;
-            label14.Font = new Font("FOT-Yuruka Std UB", 18F, FontStyle.Bold, GraphicsUnit.Point, 128);
+            label14.Font = new Font("Microsoft Sans Serif", 18F, FontStyle.Bold, GraphicsUnit.Point, 128);
             label14.Location = new Point(639, 612);
             label14.Name = "label14";
-            label14.Size = new Size(148, 47);
+            label14.Size = new Size(159, 36);
             label14.TabIndex = 20;
             label14.Text = "<<<<<<<<";
             // 
@@ -456,6 +456,7 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "ManagerForm";
             Text = "ManagerForm";
+            Load += ManagerForm_Load;
             ((System.ComponentModel.ISupportInitialize)Accountdata).EndInit();
             ResumeLayout(false);
             PerformLayout();

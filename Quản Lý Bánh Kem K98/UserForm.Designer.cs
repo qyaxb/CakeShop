@@ -42,8 +42,6 @@
             txtID = new TextBox();
             pfp = new PictureBox();
             dateTimePicker1 = new DateTimePicker();
-            listPosition = new ListBox();
-            label4 = new Label();
             btnSave = new Button();
             btnChooseImage = new Button();
             btnCloseAll = new Button();
@@ -53,10 +51,10 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(12, 70);
             label1.Name = "label1";
-            label1.Size = new Size(124, 28);
+            label1.Size = new Size(107, 22);
             label1.TabIndex = 0;
             label1.Text = "First Name";
             label1.Click += label1_Click;
@@ -71,7 +69,7 @@
             // 
             // btnExit
             // 
-            btnExit.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnExit.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnExit.Location = new Point(377, 476);
             btnExit.Name = "btnExit";
             btnExit.Size = new Size(99, 33);
@@ -82,7 +80,7 @@
             // 
             // btnReset
             // 
-            btnReset.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnReset.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnReset.Location = new Point(37, 476);
             btnReset.Name = "btnReset";
             btnReset.Size = new Size(99, 33);
@@ -94,10 +92,10 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.Location = new Point(9, 139);
             label2.Name = "label2";
-            label2.Size = new Size(120, 28);
+            label2.Size = new Size(105, 22);
             label2.TabIndex = 0;
             label2.Text = "Last Name";
             label2.Click += label1_Click;
@@ -113,10 +111,10 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label7.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label7.Location = new Point(12, 332);
             label7.Name = "label7";
-            label7.Size = new Size(106, 28);
+            label7.Size = new Size(84, 22);
             label7.TabIndex = 0;
             label7.Text = "Birthday";
             label7.Click += label1_Click;
@@ -124,10 +122,10 @@
             // label8
             // 
             label8.AutoSize = true;
-            label8.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label8.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label8.Location = new Point(9, 205);
             label8.Name = "label8";
-            label8.Size = new Size(94, 28);
+            label8.Size = new Size(83, 22);
             label8.TabIndex = 0;
             label8.Text = "Address";
             label8.Click += label1_Click;
@@ -144,11 +142,11 @@
             // 
             label9.AutoSize = true;
             label9.BackColor = Color.FromArgb(64, 64, 64);
-            label9.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label9.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label9.ForeColor = Color.Transparent;
             label9.Location = new Point(223, 9);
             label9.Name = "label9";
-            label9.Size = new Size(118, 28);
+            label9.Size = new Size(103, 22);
             label9.TabIndex = 0;
             label9.Text = "User Form";
             label9.Click += label1_Click;
@@ -156,10 +154,10 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.Location = new Point(9, 266);
             label3.Name = "label3";
-            label3.Size = new Size(36, 28);
+            label3.Size = new Size(29, 22);
             label3.TabIndex = 0;
             label3.Text = "ID";
             label3.Click += label1_Click;
@@ -186,38 +184,16 @@
             // 
             // dateTimePicker1
             // 
-            dateTimePicker1.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dateTimePicker1.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             dateTimePicker1.Location = new Point(9, 377);
             dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(342, 37);
+            dateTimePicker1.Size = new Size(342, 24);
             dateTimePicker1.TabIndex = 4;
             dateTimePicker1.ValueChanged += dateTimePicker1_ValueChanged;
             // 
-            // listPosition
-            // 
-            listPosition.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            listPosition.FormattingEnabled = true;
-            listPosition.ItemHeight = 24;
-            listPosition.Location = new Point(377, 377);
-            listPosition.Name = "listPosition";
-            listPosition.Size = new Size(150, 52);
-            listPosition.TabIndex = 5;
-            listPosition.SelectedIndexChanged += listPosition_SelectedIndexChanged;
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label4.Location = new Point(377, 332);
-            label4.Name = "label4";
-            label4.Size = new Size(98, 28);
-            label4.TabIndex = 0;
-            label4.Text = "Position";
-            label4.Click += label1_Click;
-            // 
             // btnSave
             // 
-            btnSave.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnSave.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnSave.Location = new Point(211, 476);
             btnSave.Name = "btnSave";
             btnSave.Size = new Size(99, 33);
@@ -228,7 +204,7 @@
             // 
             // btnChooseImage
             // 
-            btnChooseImage.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnChooseImage.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnChooseImage.Location = new Point(348, 266);
             btnChooseImage.Name = "btnChooseImage";
             btnChooseImage.Size = new Size(139, 33);
@@ -240,7 +216,7 @@
             // btnCloseAll
             // 
             btnCloseAll.BackColor = Color.Transparent;
-            btnCloseAll.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnCloseAll.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnCloseAll.ForeColor = Color.Black;
             btnCloseAll.Location = new Point(510, -2);
             btnCloseAll.Name = "btnCloseAll";
@@ -257,7 +233,6 @@
             BackgroundImage = Properties.Resources.output_onlinepngtools;
             ClientSize = new Size(551, 521);
             Controls.Add(btnCloseAll);
-            Controls.Add(listPosition);
             Controls.Add(dateTimePicker1);
             Controls.Add(pfp);
             Controls.Add(btnSave);
@@ -267,7 +242,6 @@
             Controls.Add(txtDiaChi);
             Controls.Add(label8);
             Controls.Add(txtTen);
-            Controls.Add(label4);
             Controls.Add(label7);
             Controls.Add(label2);
             Controls.Add(txtID);
@@ -300,8 +274,6 @@
         private TextBox txtID;
         private PictureBox pfp;
         private DateTimePicker dateTimePicker1;
-        private ListBox listPosition;
-        private Label label4;
         private Button btnSave;
         private Button btnChooseImage;
         private Button btnCloseAll;

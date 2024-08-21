@@ -20,7 +20,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
         private const decimal PriceChocolate = 30.00m;
         private const decimal PriceVanilla = 16.00m;
 
-        string connectionString = @"Data Source=LAPTOP-22RF98LR;Initial Catalog=QLyBanhKemK98;Integrated Security=True";
+        string connectionString = @"Data Source=WIN-NEQ19HH3LO5\SQLEXPRESS;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
         public ShopForm()
         {
             InitializeComponent();

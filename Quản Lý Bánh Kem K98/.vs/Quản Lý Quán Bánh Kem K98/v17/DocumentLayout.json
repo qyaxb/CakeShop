@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\shopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:shopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\totalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:totalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\shopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:shopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\totalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:totalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|e:\\cakeshop\\qu\u1EA3n l\u00FD b\u00E1nh kem k98\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA1DFF3-B692-45EA-9CBF-8F64C1A5B367}|Qu\u1EA3n L\u00FD Qu\u00E1n B\u00E1nh Kem K98.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerForm.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "ManagerForm.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\ManagerForm.cs",
+              "RelativeToolTip": "ManagerForm.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAADwv+ABAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:24:57.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopForm.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\ShopForm.cs",
+              "RelativeDocumentMoniker": "ShopForm.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\ShopForm.cs",
+              "RelativeToolTip": "ShopForm.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAAAMUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:13:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:12:18.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:12:26.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:46:52.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerForm.cs [Design]",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "ManagerForm.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\ManagerForm.cs [Design]",
+              "RelativeToolTip": "ManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:25:05.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:12:15.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.Designer.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Employee.Designer.cs",
+              "RelativeDocumentMoniker": "Employee.Designer.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Employee.Designer.cs",
+              "RelativeToolTip": "Employee.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:38:19.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "totalForm.cs [Design]",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\totalForm.cs",
+              "RelativeDocumentMoniker": "totalForm.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\totalForm.cs [Design]",
+              "RelativeToolTip": "totalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:13:19.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserForm.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\UserForm.cs",
+              "RelativeToolTip": "UserForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:13:29.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Employee.cs [Design]",
+              "RelativeToolTip": "Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:56:59.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopForm.cs [Design]",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\ShopForm.cs",
+              "RelativeDocumentMoniker": "ShopForm.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\ShopForm.cs [Design]",
+              "RelativeToolTip": "ShopForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:13:02.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Register.cs [Design]",
+              "RelativeToolTip": "Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:12:50.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:12:21.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:12:51.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "totalForm.cs",
+              "DocumentMoniker": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\totalForm.cs",
+              "RelativeDocumentMoniker": "totalForm.cs",
+              "ToolTip": "E:\\CakeShop\\Qu\u1EA3n L\u00FD B\u00E1nh Kem K98\\totalForm.cs",
+              "RelativeToolTip": "totalForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:13:21.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

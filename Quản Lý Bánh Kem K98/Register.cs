@@ -4,7 +4,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
 {
     public partial class Form1 : Form
     {
-        string connectionString = @"Data Source=LAPTOP-22RF98LR;Initial Catalog=QLyBanhKemK98;Integrated Security=True";
+        string connectionString = @"Data Source=WIN-NEQ19HH3LO5\SQLEXPRESS;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
         public Form1()
         {
             InitializeComponent();

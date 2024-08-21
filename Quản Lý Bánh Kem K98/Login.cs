@@ -21,7 +21,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
 
         private void btnTenDangNhap_Click(object sender, EventArgs e)
         {
-            string chuoiketnoi = @"Data Source=LAPTOP-22RF98LR;Initial Catalog=QLyBanhKemK98;Integrated Security=True";
+            string chuoiketnoi = @"Data Source=WIN-NEQ19HH3LO5\SQLEXPRESS;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
             using (SqlConnection ketnoi = new SqlConnection(chuoiketnoi))
             {
                 string tk = txtTenDangNhap.Text;
@@ -64,8 +64,8 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
                                 else if (role == "employee")
                                 {
                                     this.Hide();
-                                    UserForm UserForm = new UserForm(tk); // Pass username
-                                    UserForm.Show();
+                                    Employee newEmployee = new Employee(tk); // Pass username
+                                    newEmployee.Show();
                                 }
                                 else if (role == "guest")
                                 {
@@ -168,6 +168,11 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
                 }
                 this.Close();
             }
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

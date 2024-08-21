@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quản Lý Quán Bánh Kem K98")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9a894262d27f6a7e01d4e8f90bc6d1c2794600c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quản Lý Quán Bánh Kem K98")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quản Lý Quán Bánh Kem K98")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

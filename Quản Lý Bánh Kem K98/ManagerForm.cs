@@ -13,7 +13,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
 {
     public partial class ManagerForm : Form
     {
-        private string chuoiketnoi = @"Data Source=LAPTOP-22RF98LR;Initial Catalog=QLyBanhKemK98;Integrated Security=True";
+        private string chuoiketnoi = @"Data Source=WIN-NEQ19HH3LO5\SQLEXPRESS;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
         public ManagerForm()
         {
             InitializeComponent();
@@ -491,6 +491,11 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
             this.Hide();
             totalForm totalForm = new totalForm();
             totalForm.Show();
+        }
+
+        private void ManagerForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

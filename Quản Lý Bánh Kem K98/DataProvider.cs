@@ -11,7 +11,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
     internal class DataProvider
     {
         // Connection String thiết lập các thông số để kết nối.
-        static string cnStr = @"Data Source=admin\LAPTOP-22RF98LR;Initial Catalog=SQLQLyBKK98;Integrated Security=True;";
+        static string cnStr = @"Data Source=WIN-NEQ19HH3LO5\SQLEXPRESS;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
         // Tạo kết nối
         static SqlConnection cn;
         static public DataTable LoadCSDL(string sql)

@@ -39,7 +39,7 @@
             // 
             // btnCaculate
             // 
-            btnCaculate.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnCaculate.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnCaculate.Location = new Point(669, 104);
             btnCaculate.Name = "btnCaculate";
             btnCaculate.Size = new Size(107, 29);
@@ -60,7 +60,7 @@
             // 
             // btnReset
             // 
-            btnReset.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnReset.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnReset.Location = new Point(669, 172);
             btnReset.Name = "btnReset";
             btnReset.Size = new Size(107, 29);
@@ -73,11 +73,11 @@
             // 
             label1.AutoSize = true;
             label1.BackColor = Color.FromArgb(64, 64, 64);
-            label1.Font = new Font("FOT-Yuruka Std UB", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.Transparent;
             label1.Location = new Point(329, 55);
             label1.Name = "label1";
-            label1.Size = new Size(173, 28);
+            label1.Size = new Size(145, 22);
             label1.TabIndex = 2;
             label1.Text = "Calculate Form";
             // 
@@ -106,6 +106,7 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "totalForm";
             Text = "total";
+            Load += totalForm_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);

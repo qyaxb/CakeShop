@@ -17,13 +17,11 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
         public UserForm(string username)
         {
             InitializeComponent();
-            listPosition.Items.Add("guest");
-            listPosition.Items.Add("employee");
-            listPosition.Items.Add("manager");
+     
             currentUser = username; // Lưu tên đăng nhập khi khởi tạo form
             LoadEmployeeData(); // Nạp dữ liệu nhân viên khi mở form
         }
-        private string connectionString = @"Data Source=LAPTOP-22RF98LR;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
+        private string connectionString = @"Data Source=WIN-NEQ19HH3LO5\SQLEXPRESS;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
         private bool IsEmployeeExist(string id, SqlConnection connection)
         {
             string query = "SELECT COUNT(*) FROM dbo.NhanVien WHERE ID = @ID";
@@ -57,7 +55,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
                         txtTen.Text = reader["Ten"].ToString();
                         txtDiaChi.Text = reader["DiaChi"].ToString();
                         dateTimePicker1.Value = Convert.ToDateTime(reader["NgaySinh"]);
-                        listPosition.SelectedItem = reader["ViTri"].ToString();
+        
 
                         // Load image if available
                         string imagePath = reader["Anh"].ToString();
@@ -74,7 +72,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
                         txtTen.Clear();
                         txtDiaChi.Clear();
                         dateTimePicker1.Value = DateTime.Now;
-                        listPosition.SelectedIndex = -1;
+                       
                         pfp.Image = null;
                     }
                 }
@@ -241,10 +239,10 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
             string ten = txtTen.Text;
             string diaChi = txtDiaChi.Text;
             DateTime ngaySinh = dateTimePicker1.Value;
-            string viTri = listPosition.SelectedItem.ToString();
+        
             string anh = ""; // If you want to save the image path, you should handle it accordingly.
 
-            string connectionString = @"Data Source=LAPTOP-22RF98LR;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
+            string connectionString = @"Data Source=WIN-NEQ19HH3LO5\SQLEXPRESS;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
 
             string deleteQuery = "DELETE FROM NhanVien WHERE ID = @ID";
             string insertQuery = "INSERT INTO NhanVien (ID, TenDN, TenHo, Ten, DiaChi, NgaySinh, ViTri, Anh) " +
@@ -270,7 +268,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
                     insertCmd.Parameters.AddWithValue("@Ten", ten);
                     insertCmd.Parameters.AddWithValue("@DiaChi", diaChi);
                     insertCmd.Parameters.AddWithValue("@NgaySinh", ngaySinh);
-                    insertCmd.Parameters.AddWithValue("@ViTri", viTri);
+                    insertCmd.Parameters.AddWithValue("@ViTri", "guest");
                     insertCmd.Parameters.AddWithValue("@Anh", anh);
 
                     insertCmd.ExecuteNonQuery();
@@ -290,7 +288,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
             txtTenHo.Clear();
             txtTen.Clear();
             txtDiaChi.Clear();
-            listPosition.SelectedIndex = -1;
+          
             dateTimePicker1.Value = DateTime.Now;
             pfp.Image = null; // Or set a default image if needed
 
@@ -328,6 +326,11 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
                 }
                 this.Close();
             }
+        }
+
+        public static implicit operator UserForm(Employee v)
+        {
+            throw new NotImplementedException();
         }
     }
 }

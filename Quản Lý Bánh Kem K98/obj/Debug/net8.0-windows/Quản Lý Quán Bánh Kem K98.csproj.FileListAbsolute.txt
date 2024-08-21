@@ -28,3 +28,35 @@ C:\Users\Admin\OneDrive\Tài liệu\Quản Lý Bánh Kem K98\obj\Debug\net8.0-
 C:\Users\Admin\OneDrive\Tài liệu\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.ManagerForm.resources
 C:\Users\Admin\OneDrive\Tài liệu\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.UserForm.resources
 C:\Users\Admin\OneDrive\Tài liệu\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.totalForm.resources
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.exe
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.deps.json
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.runtimeconfig.json
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.pdb
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.csproj.AssemblyReference.cache
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.Login.resources
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.ManagerForm.resources
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.Properties.Resources.resources
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.Form1.resources
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.ShopForm.resources
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.totalForm.resources
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.UserForm.resources
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.csproj.GenerateResource.cache
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.GeneratedMSBuildEditorConfig.editorconfig
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.AssemblyInfoInputs.cache
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.AssemblyInfo.cs
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.csproj.CoreCompileInputs.cache
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.sourcelink.json
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý .102D6794.Up2Date
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\refint\Quản Lý Quán Bánh Kem K98.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.pdb
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản Lý Quán Bánh Kem K98.genruntimeconfig.cache
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\ref\Quản Lý Quán Bánh Kem K98.dll
+E:\CakeShop\Quản Lý Bánh Kem K98\obj\Debug\net8.0-windows\Quản_Lý_Quán_Bánh_Kem_K98.Employee.resources

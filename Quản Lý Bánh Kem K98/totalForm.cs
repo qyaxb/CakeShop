@@ -13,7 +13,7 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
 {
     public partial class totalForm : Form
     {
-        string connectionString = @"Data Source=LAPTOP-22RF98LR;Initial Catalog=QLyBanhKemK98;Integrated Security=True";
+        string connectionString = @"Data Source=WIN-NEQ19HH3LO5\SQLEXPRESS;Initial Catalog=QLyBanhKemK98;Integrated Security=True;";
         public totalForm()
         {
             InitializeComponent();
@@ -125,6 +125,11 @@ namespace Quản_Lý_Quán_Bánh_Kem_K98
             }
         }
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void totalForm_Load(object sender, EventArgs e)
         {
 
         }

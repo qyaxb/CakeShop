@@ -55,11 +55,11 @@
             // 
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
-            label2.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 128);
+            label2.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 128);
             label2.ForeColor = Color.Black;
             label2.Location = new Point(56, 193);
             label2.Name = "label2";
-            label2.Size = new Size(96, 24);
+            label2.Size = new Size(85, 18);
             label2.TabIndex = 4;
             label2.Text = "Username";
             // 
@@ -67,11 +67,11 @@
             // 
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
-            label1.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 128);
+            label1.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 128);
             label1.ForeColor = Color.Black;
             label1.Location = new Point(56, 277);
             label1.Name = "label1";
-            label1.Size = new Size(89, 24);
+            label1.Size = new Size(83, 18);
             label1.TabIndex = 4;
             label1.Text = "Password";
             // 
@@ -88,11 +88,11 @@
             // 
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
-            label3.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 128);
+            label3.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 128);
             label3.ForeColor = Color.Black;
             label3.Location = new Point(139, 112);
             label3.Name = "label3";
-            label3.Size = new Size(69, 24);
+            label3.Size = new Size(59, 18);
             label3.TabIndex = 4;
             label3.Text = "LOGIN";
             // 
@@ -110,7 +110,7 @@
             // btnTenDangNhap
             // 
             btnTenDangNhap.BackColor = Color.FromArgb(64, 64, 64);
-            btnTenDangNhap.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnTenDangNhap.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnTenDangNhap.ForeColor = Color.White;
             btnTenDangNhap.Location = new Point(39, 446);
             btnTenDangNhap.Name = "btnTenDangNhap";
@@ -123,7 +123,7 @@
             // btnClear
             // 
             btnClear.BackColor = Color.FromArgb(64, 64, 64);
-            btnClear.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnClear.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnClear.ForeColor = Color.White;
             btnClear.Location = new Point(39, 523);
             btnClear.Name = "btnClear";
@@ -137,11 +137,11 @@
             // 
             ForOwnerChecker.AutoSize = true;
             ForOwnerChecker.BackColor = Color.Transparent;
-            ForOwnerChecker.Font = new Font("FOT-Yuruka Std UB", 7.8F, FontStyle.Bold, GraphicsUnit.Point, 128);
+            ForOwnerChecker.Font = new Font("Microsoft Sans Serif", 7.8F, FontStyle.Bold, GraphicsUnit.Point, 128);
             ForOwnerChecker.ForeColor = Color.Black;
             ForOwnerChecker.Location = new Point(203, 357);
             ForOwnerChecker.Name = "ForOwnerChecker";
-            ForOwnerChecker.Size = new Size(109, 25);
+            ForOwnerChecker.Size = new Size(99, 20);
             ForOwnerChecker.TabIndex = 8;
             ForOwnerChecker.Text = "For Owner";
             ForOwnerChecker.UseVisualStyleBackColor = false;
@@ -151,11 +151,11 @@
             // 
             ToRegister.AutoSize = true;
             ToRegister.BackColor = Color.Transparent;
-            ToRegister.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 128);
+            ToRegister.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 128);
             ToRegister.ForeColor = Color.Black;
             ToRegister.Location = new Point(82, 581);
             ToRegister.Name = "ToRegister";
-            ToRegister.Size = new Size(193, 24);
+            ToRegister.Size = new Size(162, 18);
             ToRegister.TabIndex = 4;
             ToRegister.Text = "Create New Account";
             ToRegister.Click += ToRegister_Click;
@@ -164,11 +164,11 @@
             // 
             CheckPassword.AutoSize = true;
             CheckPassword.BackColor = Color.Transparent;
-            CheckPassword.Font = new Font("FOT-Yuruka Std UB", 7.8F, FontStyle.Bold, GraphicsUnit.Point, 128);
+            CheckPassword.Font = new Font("Microsoft Sans Serif", 7.8F, FontStyle.Bold, GraphicsUnit.Point, 128);
             CheckPassword.ForeColor = Color.Black;
             CheckPassword.Location = new Point(182, 399);
             CheckPassword.Name = "CheckPassword";
-            CheckPassword.Size = new Size(142, 25);
+            CheckPassword.Size = new Size(138, 20);
             CheckPassword.TabIndex = 8;
             CheckPassword.Text = "Show Password";
             CheckPassword.UseVisualStyleBackColor = false;
@@ -177,7 +177,7 @@
             // btnCloseAll
             // 
             btnCloseAll.BackColor = Color.Transparent;
-            btnCloseAll.Font = new Font("FOT-Yuruka Std UB", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnCloseAll.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnCloseAll.ForeColor = Color.Black;
             btnCloseAll.Location = new Point(326, 0);
             btnCloseAll.Name = "btnCloseAll";
@@ -209,6 +209,7 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "Login";
             Text = "Login";
+            Load += Login_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
